@@ -3,6 +3,269 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Newsletter — {DATE}</title>
+  <title>Newsletter — 7 juin 2026</title>
   <style>
-    * { box-siz
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, 'Segoe UI', Georgia, sans-serif;
+      background: #f2f1ed;
+      color: #1a1a1a;
+      line-height: 1.55;
+    }
+    .container { max-width: 800px; margin: 0 auto; padding: 28px 16px 60px; }
+
+    header {
+      border-bottom: 3px solid #1a1a1a;
+      padding-bottom: 14px;
+      margin-bottom: 36px;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+    }
+    header h1 { font-size: 1.7rem; letter-spacing: -0.02em; }
+    header .meta { font-size: 0.82rem; color: #888; text-align: right; line-height: 1.6; }
+    #unread-badge {
+      display: inline-block;
+      background: #1a1a1a;
+      color: white;
+      border-radius: 20px;
+      padding: 1px 9px;
+      font-size: 0.75rem;
+      margin-left: 8px;
+      vertical-align: middle;
+    }
+
+    section { margin-bottom: 44px; }
+    section h2 {
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: #888;
+      padding-bottom: 10px;
+      border-bottom: 1px solid #d8d6d0;
+      margin-bottom: 18px;
+    }
+
+    .article {
+      background: white;
+      border-radius: 8px;
+      padding: 16px 18px;
+      margin-bottom: 10px;
+      display: flex;
+      gap: 14px;
+      align-items: flex-start;
+      border: 1px solid #e8e6e0;
+      transition: opacity 0.3s;
+    }
+    .article.lu { opacity: 0.3; }
+    .article-body { flex: 1; min-width: 0; }
+    .article h3 {
+      font-size: 0.97rem;
+      font-weight: 600;
+      margin-bottom: 5px;
+      line-height: 1.35;
+    }
+    .article h3 a { color: inherit; text-decoration: none; }
+    .article h3 a:hover { text-decoration: underline; }
+    .article .summary {
+      font-size: 0.86rem;
+      color: #555;
+      margin-bottom: 7px;
+      line-height: 1.5;
+    }
+    .article .source { font-size: 0.75rem; color: #aaa; }
+
+    .btn-lu {
+      flex-shrink: 0;
+      background: none;
+      border: 1px solid #d0cec8;
+      border-radius: 5px;
+      padding: 5px 11px;
+      font-size: 0.75rem;
+      color: #999;
+      cursor: pointer;
+      white-space: nowrap;
+      margin-top: 2px;
+      transition: all 0.15s;
+    }
+    .btn-lu:hover:not(:disabled) { background: #f5f4f0; border-color: #999; color: #444; }
+    .btn-lu.done { border-color: #6a9e7a; color: #6a9e7a; }
+    .btn-lu:disabled { cursor: default; }
+
+    .empty { color: #bbb; font-style: italic; font-size: 0.88rem; padding: 8px 0; }
+
+    footer {
+      text-align: center;
+      color: #ccc;
+      font-size: 0.75rem;
+      padding-top: 28px;
+      border-top: 1px solid #ddd;
+    }
+    footer a { color: #bbb; text-decoration: none; }
+    footer a:hover { color: #888; }
+  </style>
+</head>
+<body>
+<div class="container">
+
+  <header>
+    <h1>Newsletter<span id="unread-badge"></span></h1>
+    <div class="meta">7 juin 2026<br><span id="unread-label"></span></div>
+  </header>
+
+  <section>
+    <h2>🇫🇷 Actualités</h2>
+
+    <div class="article" data-url="https://www.lemonde.fr/politique/article/2026/06/07/presidentielle-2027" data-type="article">
+      <div class="article-body">
+        <h3><a href="https://www.lemonde.fr/politique/article/2026/06/07/presidentielle-2027" target="_blank">Présidentielle 2027 : les positionnements s'accélèrent à gauche</a></h3>
+        <p class="summary">Plusieurs figures de gauche ont annoncé leur intention de se positionner. Les discussions autour d'une primaire commune progressent, mais les divisions persistent sur la ligne programmatique.</p>
+        <span class="source">Le Monde · 7 juin 2026</span>
+      </div>
+      <button class="btn-lu">Lu</button>
+    </div>
+    <div class="article" data-url="https://www.leparisien.fr/paris/2026/06/07/canal-saint-martin" data-type="article">
+      <div class="article-body">
+        <h3><a href="https://www.leparisien.fr/paris/2026/06/07/canal-saint-martin" target="_blank">Paris 10e : le projet de requalification du canal Saint-Martin présenté en mairie</a></h3>
+        <p class="summary">La Ville de Paris a dévoilé son projet de réaménagement des berges du canal Saint-Martin, incluant de nouvelles pistes cyclables et des espaces verts supplémentaires prévus pour 2028.</p>
+        <span class="source">Le Parisien · 7 juin 2026</span>
+      </div>
+      <button class="btn-lu">Lu</button>
+    </div>
+  </section>
+
+  <section>
+    <h2>🤖 Tech &amp; IA</h2>
+
+    <div class="article" data-url="https://www.usine-digitale.fr/article/claude4-agents" data-type="article">
+      <div class="article-body">
+        <h3><a href="https://www.usine-digitale.fr/article/claude4-agents" target="_blank">Anthropic déploie Claude 4 avec des capacités d'agents autonomes étendues</a></h3>
+        <p class="summary">Le nouveau modèle franchit un cap dans le raisonnement multi-étapes et la gestion de contextes longs. Les capacités d'action autonome sont désormais intégrées nativement dans l'API.</p>
+        <span class="source">Usine Digitale · 7 juin 2026</span>
+      </div>
+      <button class="btn-lu">Lu</button>
+    </div>
+    <div class="article" data-url="https://www.usine-digitale.fr/article/ha-matter14" data-type="article">
+      <div class="article-body">
+        <h3><a href="https://www.usine-digitale.fr/article/ha-matter14" target="_blank">Home Assistant 2026.6 : Matter 1.4 et nouveaux contrôleurs Thread natifs</a></h3>
+        <p class="summary">La mise à jour introduit le support complet de Matter 1.4 avec la gestion améliorée des appareils Thread. Plusieurs nouvelles intégrations pour les capteurs environnementaux sont disponibles.</p>
+        <span class="source">Usine Digitale · 6 juin 2026</span>
+      </div>
+      <button class="btn-lu">Lu</button>
+    </div>
+  </section>
+
+  <section>
+    <h2>🎮🎲 Jeux</h2>
+
+    <div class="article" data-url="https://gusandco.net/2026/06/07/spiel-des-jahres" data-type="article">
+      <div class="article-body">
+        <h3><a href="https://gusandco.net/2026/06/07/spiel-des-jahres" target="_blank">Spiel des Jahres 2026 : les nominés dévoilés</a></h3>
+        <p class="summary">Les nominations pour le prix allemand du jeu de l'année ont été annoncées. Trois titres s'affrontent dans la catégorie principale, dont un jeu coopératif français très remarqué à Essen.</p>
+        <span class="source">Gus and Co · 7 juin 2026</span>
+      </div>
+      <button class="btn-lu">Lu</button>
+    </div>
+  </section>
+
+  <section>
+    <h2>🎭 Théâtre</h2>
+
+    <div class="article" data-url="https://www.lemonde.fr/scenes/2026/06/06/pommerat-comedie-francaise" data-type="article">
+      <div class="article-body">
+        <h3><a href="https://www.lemonde.fr/scenes/2026/06/06/pommerat-comedie-francaise" target="_blank">Joël Pommerat : nouvelle création à la Comédie-Française en septembre</a></h3>
+        <p class="summary">Le metteur en scène présentera une pièce inédite à la Comédie-Française à la rentrée. Ce sera sa première collaboration avec la maison de Molière depuis La Réunification des deux Corées.</p>
+        <span class="source">Le Monde Scènes · 6 juin 2026</span>
+      </div>
+      <button class="btn-lu">Lu</button>
+    </div>
+  </section>
+
+  <section>
+    <h2>🎙️ Podcasts</h2>
+
+    <div class="article" data-url="https://radiofrance-podcast.net/podcast09/ep-20260605-28min" data-type="podcast">
+      <div class="article-body">
+        <h3><a href="https://radiofrance-podcast.net/podcast09/ep-20260605-28min" target="_blank">28 Minutes — IA : où en sont les régulations européennes ?</a></h3>
+        <p class="summary">Débat autour de l'AI Act européen et de son application concrète aux grands modèles de langage. Avec la participation d'une juriste spécialisée en droit du numérique.</p>
+        <span class="source">France Inter · 45 min · 5 juin 2026</span>
+      </div>
+      <button class="btn-lu">Écouté</button>
+    </div>
+  </section>
+
+  <section>
+    <h2>📺 YouTube — Fouloscopie</h2>
+
+    <div class="article" data-url="https://www.youtube.com/watch?v=dQw4fouloscopie" data-type="video">
+      <div class="article-body">
+        <h3><a href="https://www.youtube.com/watch?v=dQw4fouloscopie" target="_blank">Pourquoi les foules prennent-elles de mauvaises décisions ?</a></h3>
+        <p class="summary">Mehdi Moussaïd explore les mécanismes cognitifs à l'oeuvre dans les décisions collectives, avec des expériences sociales surprenantes et des implications pour notre vie quotidienne.</p>
+        <span class="source">Fouloscopie · 18 min · 4 juin 2026</span>
+      </div>
+      <button class="btn-lu">Vu</button>
+    </div>
+  </section>
+
+  <footer>
+    Générée par Claude · <a href="https://github.com/PyT/pyt-newsletter" target="_blank">GitHub</a>
+  </footer>
+</div>
+
+<script>
+const KEY = 'newsletter_lu_v1';
+
+function getLu() {
+  try { return new Set(JSON.parse(localStorage.getItem(KEY) || '[]')); }
+  catch { return new Set(); }
+}
+
+function saveLu(set) {
+  localStorage.setItem(KEY, JSON.stringify([...set]));
+}
+
+function refresh() {
+  const lu = getLu();
+  let unread = 0;
+  document.querySelectorAll('.article').forEach(el => {
+    const url = el.dataset.url;
+    if (lu.has(url)) {
+      el.classList.add('lu');
+      const btn = el.querySelector('.btn-lu');
+      if (btn) { btn.textContent = '✓ Lu'; btn.classList.add('done'); btn.disabled = true; }
+    } else {
+      unread++;
+    }
+  });
+  document.getElementById('unread-badge').textContent = unread || '';
+  document.getElementById('unread-label').textContent = unread
+    ? `${unread} non lu${unread > 1 ? 's' : ''}`
+    : 'tout lu';
+}
+
+document.addEventListener('click', e => {
+  const btn = e.target.closest('.btn-lu');
+  if (!btn || btn.disabled) return;
+  const article = btn.closest('.article');
+  const url = article.dataset.url;
+  const lu = getLu();
+  lu.add(url);
+  saveLu(lu);
+  article.classList.add('lu');
+  btn.textContent = '✓ Lu';
+  btn.classList.add('done');
+  btn.disabled = true;
+  const badge = document.getElementById('unread-badge');
+  const prev = parseInt(badge.textContent) || 0;
+  const next = Math.max(0, prev - 1);
+  badge.textContent = next || '';
+  document.getElementById('unread-label').textContent = next
+    ? `${next} non lu${next > 1 ? 's' : ''}`
+    : 'tout lu';
+});
+
+refresh();
+</script>
+</body>
+</html>
