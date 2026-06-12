@@ -263,6 +263,30 @@
       "title": "On visite l'expo FOULES, avec @Lea_Bello et @CyrusNorth",
       "type": "video",
       "first_seen": "2026-06-07"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-jeudi-14-mai-2026-6929815",
+      "title": "Pu Yi, un empereur sous emprise",
+      "type": "podcast",
+      "first_seen": "2026-06-12"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-mercredi-13-mai-2026-3938758",
+      "title": "La Nuit tragique d’un Golden Boy, le mirage Pascal Jeandet",
+      "type": "podcast",
+      "first_seen": "2026-06-12"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-mardi-12-mai-2026-2343757",
+      "title": "Musée d’art moderne de la ville de Paris : l’incroyable fric-frac",
+      "type": "podcast",
+      "first_seen": "2026-06-12"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-lundi-11-mai-2026-9902690",
+      "title": "1920, la dernière peste de Paris",
+      "type": "podcast",
+      "first_seen": "2026-06-12"
     }
   ]
 }
