@@ -1,30 +1,6 @@
 {
   "items": [
     {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-jeudi-14-mai-2026-6929815",
-      "title": "Pu Yi, un empereur sous emprise",
-      "type": "podcast",
-      "first_seen": "2026-06-12"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-mercredi-13-mai-2026-3938758",
-      "title": "La Nuit tragique d’un Golden Boy, le mirage Pascal Jeandet",
-      "type": "podcast",
-      "first_seen": "2026-06-12"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-mardi-12-mai-2026-2343757",
-      "title": "Musée d’art moderne de la ville de Paris : l’incroyable fric-frac",
-      "type": "podcast",
-      "first_seen": "2026-06-12"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-lundi-11-mai-2026-9902690",
-      "title": "1920, la dernière peste de Paris",
-      "type": "podcast",
-      "first_seen": "2026-06-12"
-    },
-    {
       "url": "https://www.radiofrance.fr",
       "title": "Tito, l’homme qui a dit non à Staline",
       "type": "podcast",
@@ -281,6 +257,72 @@
       "title": "On visite l'expo FOULES, avec @Lea_Bello et @CyrusNorth",
       "type": "video",
       "first_seen": "2026-06-14"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-jeudi-21-mai-2026-3428620",
+      "title": "L'attentat de l'OAS contre le Paris-Strasbourg, 18 juin 1961",
+      "type": "podcast",
+      "first_seen": "2026-06-18"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-mercredi-20-mai-2026-5480988",
+      "title": "Lacombe Lucien, le film de Louis Malle",
+      "type": "podcast",
+      "first_seen": "2026-06-18"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-mardi-19-mai-2026-6876593",
+      "title": "L’exécution de la famille impériale en Russie",
+      "type": "podcast",
+      "first_seen": "2026-06-18"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-lundi-18-mai-2026-8815425",
+      "title": "Marie Curie et Paul Langevin, un amour radioactif",
+      "type": "podcast",
+      "first_seen": "2026-06-18"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-jeudi-14-mai-2026-6929815",
+      "title": "Pu Yi, un empereur sous emprise",
+      "type": "podcast",
+      "first_seen": "2026-06-18"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-mercredi-13-mai-2026-3938758",
+      "title": "La Nuit tragique d’un Golden Boy, le mirage Pascal Jeandet",
+      "type": "podcast",
+      "first_seen": "2026-06-18"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-mardi-12-mai-2026-2343757",
+      "title": "Musée d’art moderne de la ville de Paris : l’incroyable fric-frac",
+      "type": "podcast",
+      "first_seen": "2026-06-18"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-lundi-11-mai-2026-9902690",
+      "title": "1920, la dernière peste de Paris",
+      "type": "podcast",
+      "first_seen": "2026-06-18"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/episode-3-ce-qu-on-gagne-a-interroger-notre-realite-8404757",
+      "title": "Et si nous vivions dans une simulation 3 : Ce qu'on gagne à interroger notre réalité",
+      "type": "podcast",
+      "first_seen": "2026-06-18"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/episode-1-la-theorie-qui-enchante-la-silicon-valley-8953013",
+      "title": "Et si nous vivions dans une simulation 1 : La théorie qui enchante la Silicon Valley",
+      "type": "podcast",
+      "first_seen": "2026-06-18"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/episode-2-dans-les-mysteres-de-la-science-7151188",
+      "title": "Et si nous vivions dans une simulation 2 : Dans les mystères de la science",
+      "type": "podcast",
+      "first_seen": "2026-06-18"
     }
   ]
 }
