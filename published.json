@@ -1,292 +1,160 @@
 {
   "items": [
     {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-mardi-02-juin-2026-4740697",
-      "title": "Les ABCD de l’Egalité, itinéraire d’une panique morale - L'intégrale",
-      "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
       "url": "https://www.radiofrance.fr",
-      "title": "1788, la journée des tuiles à Grenoble - le récit",
+      "title": "L’incendie du Reichstag - le récit",
       "type": "podcast",
-      "first_seen": "2026-06-30"
+      "first_seen": "2026-07-08"
     },
     {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-lundi-01-juin-2026-2633758",
-      "title": "1788, la journée des tuiles à Grenoble ou le laboratoire de la Révolution - L'intégrale",
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-mardi-09-juin-2026-9953097",
+      "title": "L’incendie du Reichstag - L'integrale",
       "type": "podcast",
-      "first_seen": "2026-06-30"
+      "first_seen": "2026-07-08"
     },
     {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/bande-annonce-quitter-le-pouvoir-3806440",
-      "title": "Bande-annonce : Quitter le pouvoir",
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-lundi-08-juin-2026-7471420",
+      "title": "1911, les enfants font grève ! - L'intégrale",
       "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-jeudi-28-mai-2026-7108997",
-      "title": "Louis Mandrin, brigand clair-obscur",
-      "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-mercredi-27-mai-2026-6403660",
-      "title": "Indonésie 1965, un si lointain massacre",
-      "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-mardi-26-mai-2026-6149812",
-      "title": "Les bouchers-dealers des Côtes-d’Armor",
-      "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-lundi-25-mai-2026-6188792",
-      "title": "Michel Cardon, un prisonnier aux oubliettes",
-      "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-jeudi-21-mai-2026-3428620",
-      "title": "L'attentat de l'OAS contre le Paris-Strasbourg, 18 juin 1961",
-      "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-mercredi-20-mai-2026-5480988",
-      "title": "Lacombe Lucien, le film de Louis Malle",
-      "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-mardi-19-mai-2026-6876593",
-      "title": "L’exécution de la famille impériale en Russie",
-      "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-lundi-18-mai-2026-8815425",
-      "title": "Marie Curie et Paul Langevin, un amour radioactif",
-      "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/episode-3-ce-qu-on-gagne-a-interroger-notre-realite-8404757",
-      "title": "Et si nous vivions dans une simulation 3 : Ce qu'on gagne à interroger notre réalité",
-      "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/episode-1-la-theorie-qui-enchante-la-silicon-valley-8953013",
-      "title": "Et si nous vivions dans une simulation 1 : La théorie qui enchante la Silicon Valley",
-      "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/episode-2-dans-les-mysteres-de-la-science-7151188",
-      "title": "Et si nous vivions dans une simulation 2 : Dans les mystères de la science",
-      "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/le-code-a-change-6609054",
-      "title": "Comment les machines détectent nos émotions : Les dessous de l'informatique affective",
-      "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/le-code-a-change-8695685",
-      "title": "Comment les machines détectent nos émotions : Les énigmes d'un sourire",
-      "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/ep1-2159276",
-      "title": "Dématérialisation, algorithmes, IA : comment ils durcissent notre rapport à l’Etat 1/3 : La galère de l’étranger.ère qui doit renouveler ses papiers",
-      "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/ep2-9283234",
-      "title": "Dématérialisation, algorithmes, IA : comment ils durcissent notre rapport à l’Etat 2/3 : Parcoursup, CAF et la politique cachée dans les algorithmes",
-      "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/ep3-8527607",
-      "title": "Dématérialisation, algorithmes, IA : comment ils durcissent notre rapport à l’Etat 3/3 : IA et services publics : quand l'administration se rêve machine",
-      "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/omnibus-1-7036685",
-      "title": "L’Europe, esclave numérique des Etats-Unis ? 1/3 : Omnibus : la directive européenne inquiétante",
-      "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/omnibus-3-4975946",
-      "title": "L’Europe, esclave numérique des Etats-Unis ? 3/3 : Histoire d'un lanceur d'alerte",
-      "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/bitcoin-1-1841190",
-      "title": "Pour quelques dollars de plus : portrait d'un trader amateur 1/3 : Le premier million",
-      "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/bitcoin-2-4263944",
-      "title": "Pour quelques dollars de plus : portrait d'un trader amateur 2/3 : Portrait du trader en ligne",
-      "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/bitcoin-3-4916870",
-      "title": "Pour quelques dollars de plus : portrait d'un trader amateur 3/3 : Le crash",
-      "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/autoritarisme-numerique-vers-la-fin-d-internet-ep01-2254896",
-      "title": "Internet va-t-il exploser ? 1/3 : Comment Poutine a bâti un goulag numérique",
-      "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/autoritarisme-numerique-vers-la-fin-d-internet-ep02-1637173",
-      "title": "Internet va-t-il exploser ? 2/3 : L’Internet souverain russe : outil de pouvoir et de guerre",
-      "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/autoritarisme-numerique-vers-la-fin-d-internet-ep03-7890422",
-      "title": "Internet va-t-il exploser ? 3/3 : Internet a-t-il explosé en internets multiples ?",
-      "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/les-echecs-3-1306912",
-      "title": "Les échecs à l’ère de l’IA, avec Laurent Fressinet, grand maître international   : IA : pourquoi jouer encore aux échecs alors qu’on ne peut pas gagner ?",
-      "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/les-echecs-2-1084536",
-      "title": "Les échecs à l’ère de l’IA, avec Laurent Fressinet, grand maître international   :  Pourquoi Magnus Carlsen s’est mis à sacrifier ses pions ?",
-      "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/les-echecs-1-8409839",
-      "title": "Les échecs à l’ère de l’IA, avec Laurent Fressinet, grand maître international   : Quand les ordinateurs sont devenus les meilleurs entraineurs d’échecs",
-      "type": "podcast",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=8J1opDS1otY",
-      "title": "Expérience sociale : qui faut-il sauver ?",
-      "type": "video",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=zRpcpzs7bDI",
-      "title": "La science des foules en conditions EXTRÊMES",
-      "type": "video",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=hmo2uQbpdbI",
-      "title": "Les 3 lois de L'ATTRACTION SOCIALE",
-      "type": "video",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=di8MewR_nMs",
-      "title": "Les BIAIS COGNITIFS, expliqués simplement",
-      "type": "video",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=peDhGtFuQ_s",
-      "title": "Peut-on remporter ‘Qui veut gagner des millions’.. avec 120 JOUEURS ?",
-      "type": "video",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=P-n_PrTKIbQ",
-      "title": "Peut-on travailler COMME DES FOURMIS ? 🐜 🐜 🐜",
-      "type": "video",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=1xe3zy2mU2M",
-      "title": "Ce réseau explique 150 ANS de découvertes scientifiques",
-      "type": "video",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=Y-1qLR2w60M",
-      "title": "Combien faut-il de personnes pour lancer UNE RÉVOLUTION ? ✊✊✊",
-      "type": "video",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=Jtmo3T98eQw",
-      "title": "Comment gérer 3 millions de pèlerins à La Mecque ?",
-      "type": "video",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=gVnPwtMi208",
-      "title": "J'organise une expérience grandeur nature dans un train",
-      "type": "video",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=Ch7VxxTBe1c",
-      "title": "En 5 niveaux de difficulté : comment fonctionne un banc de poissons ?",
-      "type": "video",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=qojBLk-h6rk",
-      "title": "Les bousculades dans les stades de foot",
-      "type": "video",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=mhLKT4D2YvI",
-      "title": "Les pires mouvements de foule expliqués par la science",
-      "type": "video",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=YO2QqBLfmXM",
-      "title": "100 personnes testent une méthode d'INTELLIGENCE COLLECTIVE",
-      "type": "video",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=A5NzffihYzo",
-      "title": "On visite l'expo FOULES, avec @Lea_Bello et @CyrusNorth",
-      "type": "video",
-      "first_seen": "2026-06-30"
+      "first_seen": "2026-07-08"
     },
     {
       "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-jeudi-04-juin-2026-1290160",
       "title": "La championne de tennis Monica Seles poignardée en plein match - L'intégrale",
       "type": "podcast",
-      "first_seen": "2026-07-02"
+      "first_seen": "2026-07-08"
     },
     {
       "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-mercredi-03-juin-2026-6205295",
       "title": "Chirac-Mitterrand, \"Je t'aide moi non plus\" - l'intégrale",
       "type": "podcast",
-      "first_seen": "2026-07-02"
+      "first_seen": "2026-07-08"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-mardi-02-juin-2026-4740697",
+      "title": "Les ABCD de l’Egalité, itinéraire d’une panique morale - L'intégrale",
+      "type": "podcast",
+      "first_seen": "2026-07-08"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-lundi-01-juin-2026-2633758",
+      "title": "1788, la journée des tuiles à Grenoble ou le laboratoire de la Révolution - L'intégrale",
+      "type": "podcast",
+      "first_seen": "2026-07-08"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/bande-annonce-quitter-le-pouvoir-3806440",
+      "title": "Bande-annonce : Quitter le pouvoir",
+      "type": "podcast",
+      "first_seen": "2026-07-08"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-jeudi-28-mai-2026-7108997",
+      "title": "Louis Mandrin, brigand clair-obscur",
+      "type": "podcast",
+      "first_seen": "2026-07-08"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/le-code-a-change-du-samedi-11-juillet-2026-8719189",
+      "title": "Comment les machines détectent nos émotions : Les énigmes d'un sourire",
+      "type": "podcast",
+      "first_seen": "2026-07-08"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/le-code-a-change-du-samedi-11-juillet-2026-7124478",
+      "title": "Comment les machines détectent nos émotions : Les dessous de l'informatique affective",
+      "type": "podcast",
+      "first_seen": "2026-07-08"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8J1opDS1otY",
+      "title": "Expérience sociale : qui faut-il sauver ?",
+      "type": "video",
+      "first_seen": "2026-07-08"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=zRpcpzs7bDI",
+      "title": "La science des foules en conditions EXTRÊMES",
+      "type": "video",
+      "first_seen": "2026-07-08"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hmo2uQbpdbI",
+      "title": "Les 3 lois de L'ATTRACTION SOCIALE",
+      "type": "video",
+      "first_seen": "2026-07-08"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=di8MewR_nMs",
+      "title": "Les BIAIS COGNITIFS, expliqués simplement",
+      "type": "video",
+      "first_seen": "2026-07-08"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=peDhGtFuQ_s",
+      "title": "Peut-on remporter ‘Qui veut gagner des millions’.. avec 120 JOUEURS ?",
+      "type": "video",
+      "first_seen": "2026-07-08"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=P-n_PrTKIbQ",
+      "title": "Peut-on travailler COMME DES FOURMIS ? 🐜 🐜 🐜",
+      "type": "video",
+      "first_seen": "2026-07-08"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1xe3zy2mU2M",
+      "title": "Ce réseau explique 150 ANS de découvertes scientifiques",
+      "type": "video",
+      "first_seen": "2026-07-08"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Y-1qLR2w60M",
+      "title": "Combien faut-il de personnes pour lancer UNE RÉVOLUTION ? ✊✊✊",
+      "type": "video",
+      "first_seen": "2026-07-08"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Jtmo3T98eQw",
+      "title": "Comment gérer 3 millions de pèlerins à La Mecque ?",
+      "type": "video",
+      "first_seen": "2026-07-08"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=gVnPwtMi208",
+      "title": "J'organise une expérience grandeur nature dans un train",
+      "type": "video",
+      "first_seen": "2026-07-08"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Ch7VxxTBe1c",
+      "title": "En 5 niveaux de difficulté : comment fonctionne un banc de poissons ?",
+      "type": "video",
+      "first_seen": "2026-07-08"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qojBLk-h6rk",
+      "title": "Les bousculades dans les stades de foot",
+      "type": "video",
+      "first_seen": "2026-07-08"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=mhLKT4D2YvI",
+      "title": "Les pires mouvements de foule expliqués par la science",
+      "type": "video",
+      "first_seen": "2026-07-08"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YO2QqBLfmXM",
+      "title": "100 personnes testent une méthode d'INTELLIGENCE COLLECTIVE",
+      "type": "video",
+      "first_seen": "2026-07-08"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=A5NzffihYzo",
+      "title": "On visite l'expo FOULES, avec @Lea_Bello et @CyrusNorth",
+      "type": "video",
+      "first_seen": "2026-07-08"
     }
   ]
 }
