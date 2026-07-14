@@ -1,160 +1,148 @@
 {
   "items": [
     {
-      "url": "https://www.radiofrance.fr",
-      "title": "L’incendie du Reichstag - le récit",
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/chirac-mitterrand-je-t-aide-moi-non-plus-1071860",
+      "title": "Mai 68, la grève de l’ORTF - Le récit",
       "type": "podcast",
-      "first_seen": "2026-07-08"
+      "first_seen": "2026-07-14"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-mardi-16-juin-2026-2582570",
+      "title": "Mai 68, la grève de l’ORTF - L'intégrale",
+      "type": "podcast",
+      "first_seen": "2026-07-14"
+    },
+    {
+      "url": "https://www.radiofrance.fr",
+      "title": "Robert Brasillach, le poids d’une plume - Le récit",
+      "type": "podcast",
+      "first_seen": "2026-07-14"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-lundi-15-juin-2026-8727110",
+      "title": "Robert Brasillach, le poids d’une plume - L'intégrale",
+      "type": "podcast",
+      "first_seen": "2026-07-14"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-jeudi-11-juin-2026-6321746",
+      "title": "Puteaux, 1971 : Chicago-sur-Seine - L'intégrale",
+      "type": "podcast",
+      "first_seen": "2026-07-14"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-mercredi-10-juin-2026-5086461",
+      "title": "Maradona exclu du Mondial 94 aux Etats-Unis - L'intégrale",
+      "type": "podcast",
+      "first_seen": "2026-07-14"
     },
     {
       "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-mardi-09-juin-2026-9953097",
       "title": "L’incendie du Reichstag - L'integrale",
       "type": "podcast",
-      "first_seen": "2026-07-08"
+      "first_seen": "2026-07-14"
     },
     {
       "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-lundi-08-juin-2026-7471420",
       "title": "1911, les enfants font grève ! - L'intégrale",
       "type": "podcast",
-      "first_seen": "2026-07-08"
+      "first_seen": "2026-07-14"
     },
     {
       "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-jeudi-04-juin-2026-1290160",
       "title": "La championne de tennis Monica Seles poignardée en plein match - L'intégrale",
       "type": "podcast",
-      "first_seen": "2026-07-08"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-mercredi-03-juin-2026-6205295",
-      "title": "Chirac-Mitterrand, \"Je t'aide moi non plus\" - l'intégrale",
-      "type": "podcast",
-      "first_seen": "2026-07-08"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-mardi-02-juin-2026-4740697",
-      "title": "Les ABCD de l’Egalité, itinéraire d’une panique morale - L'intégrale",
-      "type": "podcast",
-      "first_seen": "2026-07-08"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-lundi-01-juin-2026-2633758",
-      "title": "1788, la journée des tuiles à Grenoble ou le laboratoire de la Révolution - L'intégrale",
-      "type": "podcast",
-      "first_seen": "2026-07-08"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/bande-annonce-quitter-le-pouvoir-3806440",
-      "title": "Bande-annonce : Quitter le pouvoir",
-      "type": "podcast",
-      "first_seen": "2026-07-08"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-jeudi-28-mai-2026-7108997",
-      "title": "Louis Mandrin, brigand clair-obscur",
-      "type": "podcast",
-      "first_seen": "2026-07-08"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/le-code-a-change-du-samedi-11-juillet-2026-8719189",
-      "title": "Comment les machines détectent nos émotions : Les énigmes d'un sourire",
-      "type": "podcast",
-      "first_seen": "2026-07-08"
-    },
-    {
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/le-code-a-change-du-samedi-11-juillet-2026-7124478",
-      "title": "Comment les machines détectent nos émotions : Les dessous de l'informatique affective",
-      "type": "podcast",
-      "first_seen": "2026-07-08"
+      "first_seen": "2026-07-14"
     },
     {
       "url": "https://www.youtube.com/watch?v=8J1opDS1otY",
       "title": "Expérience sociale : qui faut-il sauver ?",
       "type": "video",
-      "first_seen": "2026-07-08"
+      "first_seen": "2026-07-14"
     },
     {
       "url": "https://www.youtube.com/watch?v=zRpcpzs7bDI",
       "title": "La science des foules en conditions EXTRÊMES",
       "type": "video",
-      "first_seen": "2026-07-08"
+      "first_seen": "2026-07-14"
     },
     {
       "url": "https://www.youtube.com/watch?v=hmo2uQbpdbI",
       "title": "Les 3 lois de L'ATTRACTION SOCIALE",
       "type": "video",
-      "first_seen": "2026-07-08"
+      "first_seen": "2026-07-14"
     },
     {
       "url": "https://www.youtube.com/watch?v=di8MewR_nMs",
       "title": "Les BIAIS COGNITIFS, expliqués simplement",
       "type": "video",
-      "first_seen": "2026-07-08"
+      "first_seen": "2026-07-14"
     },
     {
       "url": "https://www.youtube.com/watch?v=peDhGtFuQ_s",
       "title": "Peut-on remporter ‘Qui veut gagner des millions’.. avec 120 JOUEURS ?",
       "type": "video",
-      "first_seen": "2026-07-08"
+      "first_seen": "2026-07-14"
     },
     {
       "url": "https://www.youtube.com/watch?v=P-n_PrTKIbQ",
       "title": "Peut-on travailler COMME DES FOURMIS ? 🐜 🐜 🐜",
       "type": "video",
-      "first_seen": "2026-07-08"
+      "first_seen": "2026-07-14"
     },
     {
       "url": "https://www.youtube.com/watch?v=1xe3zy2mU2M",
       "title": "Ce réseau explique 150 ANS de découvertes scientifiques",
       "type": "video",
-      "first_seen": "2026-07-08"
+      "first_seen": "2026-07-14"
     },
     {
       "url": "https://www.youtube.com/watch?v=Y-1qLR2w60M",
       "title": "Combien faut-il de personnes pour lancer UNE RÉVOLUTION ? ✊✊✊",
       "type": "video",
-      "first_seen": "2026-07-08"
+      "first_seen": "2026-07-14"
     },
     {
       "url": "https://www.youtube.com/watch?v=Jtmo3T98eQw",
       "title": "Comment gérer 3 millions de pèlerins à La Mecque ?",
       "type": "video",
-      "first_seen": "2026-07-08"
+      "first_seen": "2026-07-14"
     },
     {
       "url": "https://www.youtube.com/watch?v=gVnPwtMi208",
       "title": "J'organise une expérience grandeur nature dans un train",
       "type": "video",
-      "first_seen": "2026-07-08"
+      "first_seen": "2026-07-14"
     },
     {
       "url": "https://www.youtube.com/watch?v=Ch7VxxTBe1c",
       "title": "En 5 niveaux de difficulté : comment fonctionne un banc de poissons ?",
       "type": "video",
-      "first_seen": "2026-07-08"
+      "first_seen": "2026-07-14"
     },
     {
       "url": "https://www.youtube.com/watch?v=qojBLk-h6rk",
       "title": "Les bousculades dans les stades de foot",
       "type": "video",
-      "first_seen": "2026-07-08"
+      "first_seen": "2026-07-14"
     },
     {
       "url": "https://www.youtube.com/watch?v=mhLKT4D2YvI",
       "title": "Les pires mouvements de foule expliqués par la science",
       "type": "video",
-      "first_seen": "2026-07-08"
+      "first_seen": "2026-07-14"
     },
     {
       "url": "https://www.youtube.com/watch?v=YO2QqBLfmXM",
       "title": "100 personnes testent une méthode d'INTELLIGENCE COLLECTIVE",
       "type": "video",
-      "first_seen": "2026-07-08"
+      "first_seen": "2026-07-14"
     },
     {
       "url": "https://www.youtube.com/watch?v=A5NzffihYzo",
       "title": "On visite l'expo FOULES, avec @Lea_Bello et @CyrusNorth",
       "type": "video",
-      "first_seen": "2026-07-08"
+      "first_seen": "2026-07-14"
     }
   ]
 }
