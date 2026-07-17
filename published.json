@@ -143,6 +143,30 @@
       "title": "On visite l'expo FOULES, avec @Lea_Bello et @CyrusNorth",
       "type": "video",
       "first_seen": "2026-07-14"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/chirac-mitterrand-je-t-aide-moi-non-plus-4870017",
+      "title": "Didier Raoult, l’inquiétant docteur COVID - Le récit",
+      "type": "podcast",
+      "first_seen": "2026-07-17"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-jeudi-18-juin-2026-3378470",
+      "title": "Didier Raoult, l’inquiétant docteur COVID - L'intégrale",
+      "type": "podcast",
+      "first_seen": "2026-07-17"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/chirac-mitterrand-je-t-aide-moi-non-plus-8612045",
+      "title": "Arménie 88 : la catastrophe de Spitak - Le récit",
+      "type": "podcast",
+      "first_seen": "2026-07-17"
+    },
+    {
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-mercredi-17-juin-2026-2954143",
+      "title": "Arménie 88 : la catastrophe de Spitak - L'intégrale",
+      "type": "podcast",
+      "first_seen": "2026-07-17"
     }
   ]
 }
